@@ -114,7 +114,7 @@ Note: Replace Our/Timezone with your actual timezone (e.g., Asia/Kolkata, Americ
 ```
 php hello.php
 ```
-### Final Output [PHP](https://github.com/Mubeena777/taskfour/blob/main/php.png)
+### Final Output [PHP](https://github.com/Mubeena777/taskfour/blob/main/PHP.png)
 ``
 Hello Mubeena D, right now the time is 2024-09-27 15:30:45
 ``
