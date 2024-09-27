@@ -118,7 +118,6 @@ php hello.php
 ``
 Hello Mubeena D, right now the time is 2024-09-27 15:30:45
 ``
-SAMPLE OF PHP
 
 
 
